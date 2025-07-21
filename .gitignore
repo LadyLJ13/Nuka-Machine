@@ -1,0 +1,33 @@
+# === Fichiers Visual Studio ===
+.vs/
+*.user
+*.suo
+
+# === Fichiers de build ===
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.exe
+*.dll
+*.pdb
+
+# === Fichiers système ===
+*.db
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Logs et temporaires ===
+*.log
+*.tmp
+*.bak
+
+# === Dossiers de tests ou déploiement (facultatif) ===
+TestResults/
+.publish/
+.vscode/
+
+# === Répertoires de dépendances (si NuGet est utilisé manuellement) ===
+packages/
