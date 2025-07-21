@@ -118,8 +118,10 @@ Ajouter une touche de fun et d'immersion avec de l'audio
 Créer un projet structuré et complet pour un portfolio ou un cours
 
 📜 Licence
+
 Ce projet est un exercice personnel. Tu peux le modifier, le forker ou le réutiliser librement.
 
 ✏️ Auteure
+
 Projet développé par LadyLJ13, dans le cadre d’un apprentissage en C#.
 Toute ressemblance avec un distributeur de Nuka Cola est totalement assumée 😄.
